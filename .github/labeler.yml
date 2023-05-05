@@ -1,3 +1,7 @@
 # test
 md_file:
   - '**/*.md'
+
+js_file:
+  - '**/*.js'
+
