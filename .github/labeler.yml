@@ -1,3 +1,5 @@
-# test
-md_file:
-  - '**/*.md'
+repo: '*'
+app: app/**/*
+components: components/**/*
+public: public/**/*
+styles: styles/**/*
